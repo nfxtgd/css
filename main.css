@@ -94,8 +94,9 @@ a
   color: #e50914;
 }
   
-.img-circle {
-    border-radius: 10%;
+.img-circle 
+{
+  border-radius: 10%;
 }
 
 
