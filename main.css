@@ -1,0 +1,29 @@
+header #header-bar>.row 
+{
+  color : #e50914;
+}
+
+#main .menu-wrapper>.header
+{
+  background: #e50914;
+}
+
+header #right-search-form>input[type=text]
+{
+  border: 3px solid #e50914;
+}
+
+header #right-search-form>#right-search-btn
+{
+  color: #e50914;
+}
+
+header #header-bar #header-top-notice strong.notice-badge 
+{
+  background: #e50914;
+}
+
+#article-list #article-list-category 
+{
+  border-top: 2px solid #e50914;
+}
