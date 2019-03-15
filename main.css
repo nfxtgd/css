@@ -3,9 +3,9 @@ header #header-bar>.row
   color : #e50914;
 }
 
-#main .menu-wrapper>.header
+header #header-bar>.row 
 {
-  background: #e50914;
+  border-top: 5px solid #e50914;
 }
 
 header #right-search-form>input[type=text]
