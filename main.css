@@ -99,5 +99,14 @@ a
   border-radius: 10%;
 }
 
+#article-list #article-list-category>a 
+{
+  background: #ec7d82;
+}
+
+#article-list #article-list-category 
+{
+  background: #ec7d82;
+}
 
 
