@@ -34,3 +34,34 @@ header #header-bar #header-top-notice strong.notice-badge
 {
   border-top: 2px solid #e50914;
 }
+
+#main .menu-wrapper>a>em 
+{
+  color: #e50914;
+}
+
+#main .menu-wrapper .spacer 
+{
+  background: #e50914;
+  opacity: 0.5;
+}
+
+#main .menu-wrapper>a>i.fa.fa-square 
+{
+  color: #e50914;
+}
+
+#board-info h1>a 
+{
+  color: #e50914;
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span 
+{
+  color: #e50914;
+}
+
+
+
+
+
