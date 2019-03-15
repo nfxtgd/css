@@ -62,6 +62,38 @@ header #header-bar #header-top-notice strong.notice-badge
 }
 
 
+#article-content-wrapper>.header 
+{
+  border-top: 2px solid #e50914;
+}
+
+#article-reply-area > .header h5 
+{
+  color: #e50914;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged 
+{
+  color: #e50914;
+}
+
+.btn-outline-success 
+{
+  color: #e50914;
+  border-color: #e50914;
+}
+
+.btn-outline-primary 
+{
+  color : black;
+  border-color: black;
+}
+
+a 
+{
+  color: #e50914;
+}
+  
 
 
 
