@@ -8,10 +8,17 @@ header #header-bar>.row
   border-top: 5px solid #e50914;
 }
 
+#main .menu-wrapper>.header 
+{
+  background: #e50914;
+}
+
+
 header #right-search-form>input[type=text]
 {
   border: 3px solid #e50914;
 }
+
 
 header #right-search-form>#right-search-btn
 {
