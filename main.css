@@ -137,3 +137,7 @@ body, html
   background: #ec7d82;
 }
 
+b, strong 
+{
+  color: #e50914;
+}
