@@ -51,11 +51,13 @@ color: #e50914;
 .btn-primary 
 {
 background-color: #e50914;
+border-color: #e50914;
 }
 
 .btn-primary:hover 
 {
 background-color: #e50914;
+border-color: #e50914;
 color:black;
 }
 
@@ -65,6 +67,33 @@ background-color: #e50914;
 }
 
 #article-list>.article-list-row>.item>a.list-title>small.comment-count 
+{
+color: #e50914;
+}
+
+.btn-outline-success 
+{
+color: #e50914;
+border-color: #e50914;
+}
+
+.btn-outline-primary 
+{
+color: black;
+border-color: black;
+}
+
+a 
+{
+color: #e50914;
+}
+
+#article-reply-area > .header h5 
+{
+color: #e50914;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged 
 {
 color: #e50914;
 }
