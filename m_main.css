@@ -1,0 +1,70 @@
+header > #header-area > #header-bar-link 
+{
+color: #e50914;
+}
+
+header>#header-area>#header-search-link 
+{
+color: #e50914;
+}
+
+#board-info>a.board-right-menu 
+{
+color: #e50914;
+}
+
+header > #header-search-bar #header-search-btn 
+{
+color: black;
+}
+
+header > #header-search-bar #header-search-input 
+{
+border: 2px solid #e50914;
+}
+
+header > #header-search-bar #header-close-search-btn 
+{
+color: #e50914;
+}
+
+header 
+{
+border-bottom: 4px solid #e50914;
+}
+
+#header-top-notice strong.notice-badge 
+{
+background: #e50914;
+}
+
+#board-info>h1>a 
+{
+color: #e50914;
+}
+
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span 
+{
+color: #e50914;
+}
+
+.btn-primary 
+{
+background-color: #e50914;
+}
+
+.btn-primary:hover 
+{
+background-color: #e50914;
+color:black;
+}
+
+#article-list>.article-list-row>.item>.list-header>span 
+{
+background-color: #e50914;
+}
+
+#article-list>.article-list-row>.item>a.list-title>small.comment-count 
+{
+color: #e50914;
+}
