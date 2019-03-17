@@ -97,3 +97,10 @@ color: #e50914;
 {
 color: #e50914;
 }
+
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover 
+{
+color: black;
+background-color: #e50914;
+border-color: #e50914;
+}
