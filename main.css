@@ -127,3 +127,15 @@ body, html
   color: #e50914;
 }
 
+.btn-primary 
+{
+background-color: #e50914;
+border-color: #e50914;
+}
+
+.btn-primary:hover 
+{
+background-color: #e50914;
+border-color: #e50914;
+color:black;
+}
