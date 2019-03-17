@@ -1,0 +1,10 @@
+header > #header-area > a > h1 
+{ 
+  background: url(https://nfxtgd.github.io/css/logo.png) no-repeat; 
+  background-size: 90px 32px; 
+}
+
+header > #header-area > #header-bar-link 
+{ 
+  color: #e50914; 
+}
