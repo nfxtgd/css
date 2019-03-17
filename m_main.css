@@ -104,3 +104,24 @@ color: black;
 background-color: #e50914;
 border-color: #e50914;
 }
+
+nav#nav>#nav-upper>#header-close-bar-link 
+{
+color : black;
+}
+
+nav#nav>#nav-upper-shortcut>.dropdown>a 
+{
+color: #e50914;
+}
+
+nav#nav > #nav-upper #noteDropdownContainer a, nav#nav > #nav-upper #userDropdownContainer a 
+{
+color: #e50914;
+}
+
+
+nav#nav>.nav-header 
+{
+background: #e50914;
+}
