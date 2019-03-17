@@ -109,4 +109,11 @@ a
   background: #ec7d82;
 }
 
+body, html 
+{
+  background: url(https://nfxtgd.github.io/css/background.jpg);
+  background-attachment: fixed;
+  background-size: auto;
+}
+
 
