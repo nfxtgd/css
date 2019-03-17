@@ -139,3 +139,13 @@ background-color: #e50914;
 border-color: #e50914;
 color:black;
 }
+
+#board-info #board-info-bottom a 
+{
+color: #e50914;
+}
+
+a:focus, a:hover 
+{
+    color: black;
+}
